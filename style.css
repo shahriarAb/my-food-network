@@ -70,3 +70,17 @@ h2{
     margin: 0;
     padding: 0;
 }
+.third-sec{
+    margin-top: 40px;
+    width: 100%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 15px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 50px grey;
+}
+.third-sec img{
+    margin-top: -2px;
+    width: 100%;
+    border-radius: 15px;
+}
