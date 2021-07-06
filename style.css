@@ -33,7 +33,7 @@ h2{
     margin-top: -180px;
 }
 .skip-color{
-    color: rgb(130, 11, 146);
+    color: rgb(159, 1, 180);
 }
 .button{
     text-decoration: none;
@@ -83,4 +83,29 @@ h2{
     margin-top: -2px;
     width: 100%;
     border-radius: 15px;
+}
+.bold-text{
+    font-size: 50px;
+    font-weight: bolder;
+}
+.small-text{
+    margin-top: -45px;
+    font-size: 15px;
+    margin-bottom: 45px;
+}
+.dist{
+    margin-left: 10%;
+    margin-right: 10%;
+}
+#border{
+    margin-left: 7%;
+    margin-right: 7%;
+    width: 86%;
+    box-shadow: 10px 10px 40px rgb(206, 202, 202);
+    border-radius: 5px;
+}
+footer{
+    background-color: black;
+    text-align: center;
+    color: grey;
 }
