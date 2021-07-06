@@ -1,5 +1,6 @@
 body{
     font-family: 'Montserrat', sans-serif;
+    margin: 0;
 }
 h1{
     font-size: 45px;
@@ -8,12 +9,17 @@ h1{
     padding: 0;
     color: rgb(80, 73, 73);
 }
+h2{
+    font-size: 25px;
+    color: rgb(88, 88, 88);
+}
 .first-p{
     color: grey;
+    font-size: 15px;
     margin-top: 50px;
     margin-bottom: 50px;
 }
-.first-sec{
+.top-sec{
     display: flex;
     margin-bottom: 100px;
 }
@@ -23,7 +29,7 @@ h1{
     padding-top: 150px;
 }
 .upper img{
-    width: 120%;
+    width: 115%;
     margin-top: -180px;
 }
 .skip-color{
@@ -31,9 +37,36 @@ h1{
 }
 .button{
     text-decoration: none;
-    font-weight: 900;
+    font-size: 15px;
     color: white;
     background-image: linear-gradient(to right, rgb(245, 107, 245), rgb(156, 3, 156));
     padding: 15px 25px;
     border-radius: 45px;
+}
+.mid-banner{
+    background-image: url("images/shapes/Frame 59.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.mid-class img{
+    width: 100%;
+    padding-left: 20px;
+    margin-top: -50px;
+    margin-bottom: 70px;
+}
+.mid-class{
+    width: 35%;
+    padding: 150px 120px 0 80px;
+}
+.alignment{
+    text-align: justify;
+    margin-bottom: 70px;
+}
+.alignment-2{
+    text-align: center;
+}
+.alignment-2 p{
+    font-size: 15px;
+    margin: 0;
+    padding: 0;
 }
