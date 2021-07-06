@@ -1,0 +1,39 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+h1{
+    font-size: 45px;
+    font-weight: 700;
+    margin: 0;
+    padding: 0;
+    color: rgb(80, 73, 73);
+}
+.first-p{
+    color: grey;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.first-sec{
+    display: flex;
+    margin-bottom: 100px;
+}
+.upper{
+    width: 40%;
+    padding-left: 90px;
+    padding-top: 150px;
+}
+.upper img{
+    width: 120%;
+    margin-top: -180px;
+}
+.skip-color{
+    color: rgb(130, 11, 146);
+}
+.button{
+    text-decoration: none;
+    font-weight: 900;
+    color: white;
+    background-image: linear-gradient(to right, rgb(245, 107, 245), rgb(156, 3, 156));
+    padding: 15px 25px;
+    border-radius: 45px;
+}
