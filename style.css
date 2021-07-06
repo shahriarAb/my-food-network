@@ -104,8 +104,32 @@ h2{
     box-shadow: 10px 10px 40px rgb(206, 202, 202);
     border-radius: 5px;
 }
-footer{
+.top-line{
+    text-decoration: none;
+    font-size: 20px;
+    color: wheat;
+    background-image: linear-gradient(to right, rgb(255, 0, 255), purple);
+}
+.foot{
+    color: gray;
     background-color: black;
+    padding: 20px;
     text-align: center;
-    color: grey;
+}
+.head{
+    width: 100%;
+    background-image: linear-gradient(to right, rgb(161, 0, 161), rgb(255, 186, 255));
+    background-position: center;
+    background-size: cover;
+    padding-top: 0.1px;
+    padding-bottom: 0.1px;
+    word-spacing: 10px;
+}
+ul li{
+    list-style: none;
+    display: inline-block;
+}
+.list{
+    text-decoration: none;
+    color: white;
 }
